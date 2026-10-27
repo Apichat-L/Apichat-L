@@ -12,14 +12,14 @@
 
 ---
 
-### 🔐 What I work on
+###  What I work on
 
 - **Security research:** post-quantum cryptography, threat intelligence and vulnerability analysis
 - **AI for security:** spam and phishing detection, game cheat detection from network traffic
 - **Cloud & data:** streaming pipelines and knowledge graphs for security data
-- 🎯 Currently looking for a **cybersecurity / cloud internship**
+-  Currently looking for a **cybersecurity / cloud internship**
 
-### 🚀 Featured projects
+### Featured projects
 
 | Project | What it does |
 |---|---|
