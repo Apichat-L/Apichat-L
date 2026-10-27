@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Apichat-L/Apichat-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi, I'm Apichat 👋</h1>
 <p align="center">
   Cybersecurity &amp; Cloud Computing student at <b>SIIT, Thammasat University</b> 🇹🇭<br>
