@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h1 align="center">Hi, I'm Apichat 👋</h1>
+<h1 align="center">Hi, I'm Apichat </h1>
 <p align="center">
   Cybersecurity &amp; Cloud Computing student at <b>SIIT, Thammasat University</b> 🇹🇭<br>
   Interested in security research, applied cryptography and AI for security.
