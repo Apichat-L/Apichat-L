@@ -26,8 +26,8 @@
 | 🔑 [Post-Quantum Signcryption](https://github.com/Apichat-L/Post-Quantum-Signcryption-3rd-Year-Project) | Quantum-resistant security for IoT data streams in Hadoop using Kyber, Dilithium, lattice CP-ABE and Intel SGX |
 | 🕸️ [VCKG Security Alerts](https://github.com/Apichat-L/VCKG-Security-Alerts) | Context-aware alert prioritisation with a Neo4j threat-intelligence knowledge graph *(in progress)* |
 | 🎮 [Anti-Cheat with XGBoost](https://github.com/Apichat-L/AntiCheat-with-XGBoost) | Server-side FPS cheat detection from Unreal Engine 5 network packets *(in progress)* |
-| 📧 [Maily Detector](https://github.com/Apichat-L/Other-Project/tree/main/maily-detector) | Chrome extension using a fine-tuned DistilBERT model to classify Gmail emails (98.6% accuracy) |
-| 🎵 [The Light House](https://github.com/Apichat-L/Other-Project/tree/main/TheLightHouse) | Concert booking system with customer, performer and admin portals (PHP & MySQL) |
+| 📧 [Maily Detector](https://github.com/Apichat-L/Other-Project/tree/main/maily-detector) | Chrome extension using a fine-tuned DistilBERT model to classify Gmail emails |
+| 🎵 [The Light House](https://github.com/Apichat-L/Other-Project/tree/main/TheLightHouse) | Concert booking system with customer, performer and admin portals |
 
 ### 🛠️ Tech I use
 
